@@ -8,5 +8,5 @@ A Simple Sudoku App made with React Native and Redux
 https://github.com/berto/sugoku
 
 
-# Demo Links
+# Demo Link
 https://expo.io/@ardyaf2/projects/ardysudoku
