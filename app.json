@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "my-sudoku",
-    "slug": "my-sudoku",
+    "name": "ardysudoku",
+    "slug": "ardysudoku",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/logo.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -21,6 +21,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": ""
   }
 }
